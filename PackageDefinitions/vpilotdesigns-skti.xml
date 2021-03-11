@@ -1,0 +1,31 @@
+<AssetPackage Name="vpilotdesigns-skti" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Tolemaida AB</Title>
+		<Manufacturer>V Pilot Designs</Manufacturer>
+		<Creator>Diego O.</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\vpilotdesigns-skti\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\vpilotdesigns-skti</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placeholder-name">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>Scene</AssetDir>
+			<OutputDir>scenery\world\scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
